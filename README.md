@@ -1,2 +1,2 @@
 # chronodynamics
-ChronoGeometric Coupling model to resolve ....  | PRD-ready paper + modified CLASS code.
+A ChronoGeometric Coupling model born to be Fundamental...  | PRD-ready paper + modified CLASS code.
