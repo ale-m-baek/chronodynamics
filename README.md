@@ -1,2 +1,2 @@
 # chronodynamics
-A ChronoGeometric Coupling model born to be Fundamental...  | PRD-ready paper + modified CLASS code.
+Chronodynamics: A fundamental ChronoGeometric model decoupling time and geometry — PRD-ready & CLASS-ready
